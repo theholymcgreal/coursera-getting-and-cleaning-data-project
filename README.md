@@ -1,6 +1,5 @@
 # Getting and Cleaning Data
-Course Project for Getting and Cleaning Data 
-The script run_analysis.R:
+Course Project for Getting and Cleaning Data uses the script run_analysis.R and:
 
 1. Downloads the dataset if it does not already exist in the working directory
 2. Loads activity and feature information
